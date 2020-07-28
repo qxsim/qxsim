@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/qxsim/qxsim/blob/master/dev.png" alt="Me if I was animated." width=300px height=305px/>
+<img align="right" src="https://github.com/qxsim/qxsim/blob/master/dev.png" alt="Me if I was animated." width=280px height=285px/>
 
 ### Hi, I'm Qasim 👋
 
