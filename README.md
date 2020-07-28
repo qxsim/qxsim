@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/qxsim/qxsim/blob/master/dev.jpg" alt="Me if I was animated." width=350px height=465px/>
+
 ### Hi, I'm Qasim 👋
 
 I’m a software engineer, designer and tinkerer. I recently graduated from The University of Birmingham with a Computer Science degree. I currently work as a Software Engineer at Magpie. 
